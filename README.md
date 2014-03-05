@@ -1,0 +1,4 @@
+licytacja
+=========
+
+Licytacja przedmiotów
